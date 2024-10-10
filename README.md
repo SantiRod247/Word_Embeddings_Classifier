@@ -1,1 +1,1 @@
-# Word_Embeddings_Classifier
+# Word Embeddings Classifier
